@@ -1,0 +1,13 @@
+<resources>
+	<string name="app_name">Orange Sheet</string>
+
+	<string name="hello_world">Hello world!</string>
+	<string name="action_settings">Settings</string>
+
+	<string-array name="ridersEmpites_array">
+		<item>Empties</item>
+		<item>Riders</item>
+	</string-array>
+	<string name="title_activity_display_data">DisplayDataActivity</string>
+
+</resources>
